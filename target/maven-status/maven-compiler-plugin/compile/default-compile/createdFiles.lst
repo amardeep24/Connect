@@ -1,0 +1,6 @@
+com\amardeep\connect\model\Message.class
+com\amardeep\connect\service\UserService.class
+com\amardeep\connect\dao\impl\BaseDaoImpl.class
+com\amardeep\connect\dao\BaseDao.class
+com\amardeep\connect\model\User.class
+com\amardeep\connect\service\impl\UserServiceImpl.class
